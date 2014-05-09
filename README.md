@@ -8,7 +8,7 @@ How to use it:
 
 Just extend this class by your model, your relations would be automatically enhanced:
 
-1. Your model class:
+*Your model class*
 
 ```php
 class User extends AutoStatActiveRecord
@@ -29,7 +29,7 @@ class User extends AutoStatActiveRecord
 }
 ```
     
-2. Example code:
+*Example code:*
 
 ```php
 //Lets read user from DB:
